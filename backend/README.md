@@ -7,14 +7,25 @@ In the project directory, you can run:
 
 ### `npm run dev`
 
+### `yarn run dev`
+
+### `pnpm run dev`
+
 To start the app in dev mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### `npm start`
 
+### `yarn run start`
+
+### `pnpm run start`
 For production mode
 
 ### `npm run test`
+
+### `yarn run test`
+
+### `pnpm run test`
 
 Run the test cases.
 
