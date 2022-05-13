@@ -32,3 +32,19 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Test with Cypress
+
+Cypress is a next generation front end testing tool built for the modern web. We address the key pain points developers and QA engineers face when testing modern applications.
+
+Check out our [Cypress documentation](https://docs.cypress.io/guides/overview/why-cypress) for more details.
+
+To launch Cypress, run:
+
+```bash
+npm cypress open
+# or
+yarn cypress open
+
+```

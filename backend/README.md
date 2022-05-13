@@ -5,27 +5,27 @@ This project was bootstrapped with Fastify-CLI.
 
 In the project directory, you can run:
 
-### `npm run dev`
-
-### `yarn run dev`
-
-### `pnpm run dev`
+```bash
+npm run dev
+# or
+yarn dev
+```
 
 To start the app in dev mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### `npm start`
-
-### `yarn run start`
-
-### `pnpm run start`
+```bash
+npm run start
+# or
+yarn start
+```
 For production mode
 
-### `npm run test`
-
-### `yarn run test`
-
-### `pnpm run test`
+```bash
+npm run test
+# or
+yarn test
+```
 
 Run the test cases.
 
