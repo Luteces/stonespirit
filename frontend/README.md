@@ -41,3 +41,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 Cypress is a next generation front end testing tool built for the modern web. We address the key pain points developers and QA engineers face when testing modern applications.
 
 Check out our [Cypress documentation](https://docs.cypress.io/guides/overview/why-cypress) for more details.
+
+To launch Cypress, run:
+
+```bash
+npm cypress open
+# or
+yarn cypress open
+# or
+pnpm cypress open
+```
